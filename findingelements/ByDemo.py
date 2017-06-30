@@ -47,4 +47,4 @@ ff.test()
 
 # concatenation of classes .class1.class2.class3 until we find a unique element
 
-# for special characters tag[attribute<special character>='calue']
+# for special characters tag[attribute<special character>='value']

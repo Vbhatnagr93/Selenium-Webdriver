@@ -26,7 +26,25 @@ class ByDemo():
         if elementByLinkText is not None:
             print("We found an element by Link text")
 
+        elementByCss = driver.find_element(By.CSS_SELECTOR, "#name")
+
+        if elementByCss is not None:
+            print('We found an element by CSS')
+
 
 ff = ByDemo()
 
 ff.test()
+
+#tag[id/class=''] - Find CSS elements
+# input[id='displayed-text'] or
+# #displayed-text or
+# input#displayed-text
+
+# input[class='displayed-text'] or
+# .displayed-class or
+# input.displayed-class
+
+# concatenation of classes .class1.class2.class3 until we find a unique element
+
+# for special characters tag[attribute<special character>='calue']

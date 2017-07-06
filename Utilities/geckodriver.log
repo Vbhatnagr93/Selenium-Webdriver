@@ -1,0 +1,485 @@
+1498981904627	geckodriver	INFO	Listening on 127.0.0.1:50837
+1498981905749	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498981908204	Marionette	INFO	Listening on port 50846
+1498981908296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498981908528	Marionette	DEBUG	loaded listener.js
+1498981908595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 02:51:48.632 plugin-container[1479:38094] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 02:51:48.637 plugin-container[1479:38094] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498981909275	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498981909276	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498981910076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498981910469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498981910472	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498981910520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498981910523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498981911012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498981911290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498981911293	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498981911295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498981911296	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498981911427	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498981911444	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498981912604	Marionette	INFO	New connections will no longer be accepted
+1498982400531	geckodriver	INFO	Listening on 127.0.0.1:51057
+1498982401631	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982404220	Marionette	INFO	Listening on port 51066
+1498982404292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982404578	Marionette	DEBUG	loaded listener.js
+1498982404618	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:00:04.693 plugin-container[1536:40738] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:00:04.696 plugin-container[1536:40738] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982405265	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982405266	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982406097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982406554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982406559	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982406568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982406571	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982407086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982407327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982407333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982407334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982407336	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982407442	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982407462	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498982459943	geckodriver	INFO	Listening on 127.0.0.1:51171
+1498982461022	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982463367	Marionette	INFO	Listening on port 51180
+1498982463463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982463706	Marionette	DEBUG	loaded listener.js
+1498982463748	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:01:03.817 plugin-container[1546:41327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:01:03.820 plugin-container[1546:41327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982464403	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982464404	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982465379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982465891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982465897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982465902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982465904	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982466370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982466631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982466635	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982466638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982466641	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982467574	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982467595	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498982500433	geckodriver	INFO	Listening on 127.0.0.1:51281
+1498982501510	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982504321	Marionette	INFO	Listening on port 51291
+1498982504406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982504794	Marionette	DEBUG	loaded listener.js
+1498982504841	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:01:44.922 plugin-container[1554:41890] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:01:44.926 plugin-container[1554:41890] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982505531	Marionette	INFO	Ceased listening
+1498982506292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982506292	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982507318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982507631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982507637	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982507638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982507641	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982508219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982508476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982508480	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982508482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982508483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982508497	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982508516	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498982508975	Marionette	INFO	Ceased listening
+1498982588886	geckodriver	INFO	Listening on 127.0.0.1:51410
+1498982589979	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982592223	Marionette	INFO	Listening on port 51419
+1498982592299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982592554	Marionette	DEBUG	loaded listener.js
+1498982592592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:03:12.655 plugin-container[1569:42662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:03:12.657 plugin-container[1569:42662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982593037	Marionette	INFO	Ceased listening
+1498982593220	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982593222	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982594071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982594460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982594472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982594497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982594500	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982594952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982595186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982595191	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982595194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982595196	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982595330	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982595346	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498982633951	geckodriver	INFO	Listening on 127.0.0.1:51516
+1498982635022	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982637400	Marionette	INFO	Listening on port 51525
+1498982637473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982637787	Marionette	DEBUG	loaded listener.js
+1498982637829	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:03:57.891 plugin-container[1578:43250] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:03:57.896 plugin-container[1578:43250] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982638466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982638467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982639058	Marionette	INFO	Ceased listening
+1498982639366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982639853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982639857	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982640002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982640004	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982640324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982640570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982640574	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982640575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982640576	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982640595	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982640615	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498982655073	geckodriver	INFO	Listening on 127.0.0.1:51620
+1498982656170	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982658481	Marionette	INFO	Listening on port 51629
+1498982658590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982658830	Marionette	DEBUG	loaded listener.js
+1498982658874	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:04:18.936 plugin-container[1587:43569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:04:18.940 plugin-container[1587:43569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982659738	Marionette	INFO	Ceased listening
+1498982659787	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982659788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982660648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982661154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982661167	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982661608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982661887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982661891	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982661895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982661897	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982661900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982661902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982662086	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982662102	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498982666246	Marionette	INFO	Ceased listening
+1498982754746	geckodriver	INFO	Listening on 127.0.0.1:51737
+1498982755817	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498982757993	Marionette	INFO	Listening on port 51746
+1498982758063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498982758453	Marionette	DEBUG	loaded listener.js
+1498982758495	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:05:58.558 plugin-container[1595:44252] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:05:58.561 plugin-container[1595:44252] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498982759183	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498982759183	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498982760000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498982760607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982760610	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982760769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982760771	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982760902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498982761200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982761205	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498982761206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982761207	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498982761276	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498982761299	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498983953652	geckodriver	INFO	Listening on 127.0.0.1:52001
+1498983954773	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498983957258	Marionette	INFO	Listening on port 52011
+1498983957357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498983957606	Marionette	DEBUG	loaded listener.js
+1498983957678	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:25:57.712 plugin-container[1723:47530] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:25:57.716 plugin-container[1723:47530] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498983958406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498983958407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498983958652	Marionette	INFO	Ceased listening
+1498983959299	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498983959694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498983959705	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498983959763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498983959766	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498983960374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498983960669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498983960674	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498983960677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498983960679	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498983960759	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498983960797	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498984017887	geckodriver	INFO	Listening on 127.0.0.1:52114
+1498984018971	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498984021435	Marionette	INFO	Listening on port 52123
+1498984021523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498984021855	Marionette	DEBUG	loaded listener.js
+1498984021937	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:27:01.982 plugin-container[1740:48167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:27:01.989 plugin-container[1740:48167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498984022610	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498984022611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498984023444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498984023959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984023967	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984024091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984024093	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984024357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498984024604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984024611	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984024613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984024616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984024811	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498984024828	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498984228562	geckodriver	INFO	Listening on 127.0.0.1:52257
+1498984229642	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498984232200	Marionette	INFO	Listening on port 52266
+1498984232340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498984232404	Marionette	INFO	Ceased listening
+1498984232620	Marionette	DEBUG	loaded listener.js
+1498984232660	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:30:32.722 plugin-container[1764:49196] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:30:32.725 plugin-container[1764:49196] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498984233318	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498984233319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498984234161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498984234535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984234548	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984234567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984234571	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984235040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498984235393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984235399	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984235404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984235406	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984235434	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498984235454	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498984238590	Marionette	INFO	Ceased listening
+1498984468504	geckodriver	INFO	Listening on 127.0.0.1:52398
+1498984469576	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498984471729	Marionette	INFO	Listening on port 52407
+1498984471795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498984472074	Marionette	DEBUG	loaded listener.js
+1498984472112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:34:32.169 plugin-container[1809:50483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:34:32.172 plugin-container[1809:50483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498984472785	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498984472785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498984473594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498984474109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984474114	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984474119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984474122	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984474530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498984474749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984474752	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984474754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984474755	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984474780	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498984474800	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498984521736	Marionette	INFO	Ceased listening
+1498984524603	Marionette	INFO	Ceased listening
+1498984539481	geckodriver	INFO	Listening on 127.0.0.1:52507
+1498984540554	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498984543013	Marionette	INFO	Listening on port 52516
+1498984543098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498984543436	Marionette	DEBUG	loaded listener.js
+1498984543471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:35:43.529 plugin-container[1840:51124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:35:43.532 plugin-container[1840:51124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498984544113	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498984544114	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498984544923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498984545369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984545373	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984545375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984545378	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984545794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498984546014	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984546018	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984546020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984546022	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984546036	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498984546054	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498984568329	geckodriver	INFO	Listening on 127.0.0.1:52616
+1498984569418	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498984571839	Marionette	INFO	Listening on port 52625
+1498984571943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498984572184	Marionette	DEBUG	loaded listener.js
+1498984572255	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:36:12.290 plugin-container[1848:51624] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:36:12.294 plugin-container[1848:51624] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498984572877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498984572877	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498984573814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498984574089	Marionette	INFO	Ceased listening
+1498984574330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984574338	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984574344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984574353	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984574914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498984575135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984575139	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984575141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984575143	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984575159	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498984575187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1498984575189	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1498984575189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1498984575191	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1498984575373	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1498984594046	Marionette	INFO	Ceased listening
+1498984595345	geckodriver	INFO	Listening on 127.0.0.1:52723
+1498984596420	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498984598826	Marionette	INFO	Listening on port 52732
+1498984598938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498984599148	Marionette	DEBUG	loaded listener.js
+1498984599217	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-02 03:36:39.245 plugin-container[1855:52046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-02 03:36:39.246 plugin-container[1855:52046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498984599798	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498984599798	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498984600594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1498984600941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984600946	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984600985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984600987	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984601583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1498984601955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984601959	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1498984601963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984601964	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1498984601984	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1498984602006	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499033521949	Marionette	INFO	Ceased listening
+1499316003447	geckodriver	INFO	Listening on 127.0.0.1:53566
+1499316004536	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499316008170	Marionette	INFO	Listening on port 53576
+1499316008291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499316008542	Marionette	DEBUG	loaded listener.js
+1499316008582	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-05 23:40:08.657 plugin-container[10548:374815] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-05 23:40:08.660 plugin-container[10548:374815] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499316009619	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499316009619	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499316010649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1499316011665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1499316011824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499316011833	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499316011834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499316011836	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499316011917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499316011925	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499316011928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499316011930	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499316012661	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1499316012680	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1499316092433	Marionette	INFO	Ceased listening
+1499317244679	geckodriver	INFO	Listening on 127.0.0.1:55086
+1499317245766	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499317248483	Marionette	INFO	Listening on port 55096
+1499317248557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499317248900	Marionette	DEBUG	loaded listener.js
+1499317249005	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-06 00:00:49.072 plugin-container[10741:379384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-06 00:00:49.077 plugin-container[10741:379384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499317249604	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499317249605	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499317251290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1499317251895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317251920	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317252245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317252249	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317252422	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1499317252625	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1499317252629	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1499317252818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499317254479	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1499317255462	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1499317255463	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1499317256019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1499317256063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1499317256065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1499317256068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1499317256070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1499317256331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317256335	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317256336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317256337	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317256355	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1499317280409	geckodriver	INFO	Listening on 127.0.0.1:55245
+1499317281498	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499317284076	Marionette	INFO	Listening on port 55254
+1499317284148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499317284468	Marionette	DEBUG	loaded listener.js
+1499317284591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-06 00:01:24.665 plugin-container[10752:379898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-06 00:01:24.666 plugin-container[10752:379898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9707, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499317284924	Marionette	INFO	Ceased listening
+1499317285031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499317285032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1499317286219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1499317286783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317286789	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317286889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317286893	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317287553	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1499317287902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499317289392	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1499317290452	Marionette	DEBUG	Received DOM event "pagehide" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1499317290452	Marionette	DEBUG	Received DOM event "unload" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1499317291103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1499317291140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1499317291143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1499317291146	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1499317291148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1499317291438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317291440	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1499317291448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317291450	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1499317291468	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1499317292023	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499317323744	Marionette	INFO	Ceased listening

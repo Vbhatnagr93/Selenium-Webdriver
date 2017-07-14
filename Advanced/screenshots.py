@@ -28,10 +28,5 @@ class Screenshots():
             print("Not a directory issue")
 
 
-
-
-
-
-
 ff = Screenshots()
 ff.test()

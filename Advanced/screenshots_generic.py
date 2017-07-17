@@ -16,17 +16,28 @@ class Screenshots():
         driver.find_element(By.ID, "user_email").send_keys("abc@email.com")
         driver.find_element(By.ID, "user_password").send_keys("abc")
         driver.find_element(By.NAME, "commit").click()
-        destinationFileName = "/Users/revelrycomputer/desktop/test.png" #png is more compressed than jpeg
+        self.takeScreenshot(driver)
 
         #destfilename = "c://username/desktop..." For windows users
 
-        try:
 
-            driver.save_screenshot(destinationFileName)
-            print("Screenshot saved to directory" +destinationFileName)
-        except NotADirectoryError:
-            print("Not a directory issue")
+    def takeScreenshot(self, driver):
+            """
+            Take screenshot of the current open web page
+            :param self:
+            :param driver:
+            :return:
+            """
+            fileName = str(round(time.time() * 1000)) + ".png"
+            screenshotDirectory = "/Users/revelrycomputer/desktop/"
+            destinationFile = screenshotDirectory + fileName
 
+            try:
+
+                driver.save_screenshot(destinationFile)
+                print("Screenshot saved to directory" + destinationFile)
+            except NotADirectoryError:
+                print("Not a directory issue")
 
 ff = Screenshots()
 ff.test()

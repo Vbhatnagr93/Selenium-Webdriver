@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from wait_types.explicit_wait_type import ExplicitWaitType
+from Wait_types.explicit_wait_type import ExplicitWaitType
 import time
 
 class ExplicitWaitDemo2():
